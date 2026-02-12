@@ -55,3 +55,10 @@ A powerful, interactive bash script for comprehensive Linux user and group manag
   sudo apt-get install dialog mysql-server banner
   # or for RHEL/CentOS
   sudo yum install dialog mariadb-server banner
+
+
+
+
+##Screenshota
+
+<img width="1447" height="647" alt="image" src="https://github.com/user-attachments/assets/bd8d9347-a6d5-4c74-a6e9-afa5624d6f6b" />
