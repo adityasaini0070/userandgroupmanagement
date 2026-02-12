@@ -62,3 +62,5 @@ A powerful, interactive bash script for comprehensive Linux user and group manag
 ##Screenshota
 
 <img width="1447" height="647" alt="image" src="https://github.com/user-attachments/assets/bd8d9347-a6d5-4c74-a6e9-afa5624d6f6b" />
+
+<img width="1358" height="666" alt="image" src="https://github.com/user-attachments/assets/5952ef25-95fe-43e7-a294-be9a55e0c5b5" />
